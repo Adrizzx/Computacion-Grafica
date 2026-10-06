@@ -105,7 +105,7 @@ Los algoritmos de rasterización se implementaron **píxel a píxel**, sin recur
 
 ## Créditos
 
-- **Marco Adrián Padilla Triviño** ([@Adrizzx](https://github.com/Adrizzx)): proyectos 2D, editor 3D y modelado en Blender.
+- **Marco Adrian Padilla Triviño** ([@Adrizzx](https://github.com/Adrizzx)): proyectos 2D, editor 3D y modelado en Blender.
 - *La Isla Fauce* desarrollado junto a **Ricardo Laínez Suárez** y **Erick Tufiño Ortiz**.
 
 <div align="center">
